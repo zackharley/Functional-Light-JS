@@ -25,7 +25,7 @@ It is my hope that you will begin to develop more confidence in the code you wri
 
 ## Communication
 
-Why is functional programming important? To answer that, we need to take a bigger step back and talk about why programming is important?
+Why is functional programming important? To answer that, we need to take a bigger step back and talk about why programming is important.
 
 It may surprise you to hear this, but I don't believe that code primarily exists to instruct the computer. As a matter of fact, I think the fact that code does instruct the computer is almost a happy accident.
 
